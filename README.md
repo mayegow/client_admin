@@ -17,6 +17,7 @@ CRM_REACT contains:
     $ git clone <this_repo>
     $ cd client_admin/crm_react
     $ npm i 
+    $ npm run dev
 
 # Enjoy it!
     
