@@ -35,6 +35,14 @@
       "telefono": "5527984005",
       "notas": "pEDIDOS EN TODA LA REPUBLICA MEXICANA",
       "id": 6
+    },
+    {
+      "nombre": "Valeria",
+      "empresa": "Disenos Magicos",
+      "email": "magic_design@gmail.com",
+      "telefono": "5500000000",
+      "notas": "Los mejores disenos para tus eventos.",
+      "id": 7
     }
   ]
 }
